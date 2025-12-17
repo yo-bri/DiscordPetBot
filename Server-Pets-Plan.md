@@ -2,10 +2,7 @@
 
 ## Prerequisites
 - [ ] Set up development environment
-- [ ] Choose tech stack (Node.js/Python + Discord.py/discord.js)
-- [ ] Set up database (SQLite for dev, PostgreSQL for production recommended)
-- [ ] Create Discord bot application and get token
-- [ ] Set up version control (Git/GitHub)
+- [ ] Set up database (SQLite)
 
 ---
 
@@ -351,4 +348,5 @@
 - Phase 3: 2-3 weeks
 - Phase 4: 1-2 weeks
 - Polish & Launch: 1-2 weeks
+
 - **Total:** ~10-14 weeks for full release (working part-time)
