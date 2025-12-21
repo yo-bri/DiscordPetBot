@@ -213,7 +213,7 @@ Species-specific messages used for:
 - Curious pets trigger events more frequently
 - Pets awakened near event memory items enjoy those events more
 
-# Development Roadmap (Phased Feature Rollout)
+# Development Roadmap
 
 Not all systems launch at once. Playtesting handled by trusted dev friends before public rollout.
 
